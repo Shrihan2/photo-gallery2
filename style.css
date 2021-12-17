@@ -1,0 +1,45 @@
+body {
+	text-align: center;
+}
+
+#home {
+	background-image: linear-gradient(#201470 0%, #08022e 100%);
+}
+
+#img1 {
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+
+#grid {
+	background-image: linear-gradient(#1f022e 0%, #000000 100%)
+}
+
+#slide {
+	background-image: linear-gradient(#201470 0%, #08022e 100%);
+}
+
+h1 {
+	padding-top: 40px;
+	color: floralwhite;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	text-align: center;
+	color: cornsilk;
+	padding: 16px;
+}
+
+ul {
+	background-color: blueviolet;
+	color: blueviolet;
+}
+#myCarousel{
+	width: 100%;
+	height: 100%;
+}
